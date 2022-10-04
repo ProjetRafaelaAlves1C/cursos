@@ -1,0 +1,83 @@
+O que é uma Rede de Computadores?
+Uma rede de computadores é um conjunto de computadores conectados entre si,
+podendo se comunicar uns com os outros e compartilhar arquivos, programas ou recursos. 
+
+
+Existem quatro tipos de redes de computadores:
+Rede PAN é uma rede centrada em uma pessoa que permite a comunicação de seus equipamentos pessoais
+Rede LAN é uma rede de equipamentos restrita a um local físico
+Rede MAN é uma rede de caráter metropolitano que liga computadores numa área geográfica de média dimensão
+Rede WAN é uma rede de telecomunicações que está dispersa por uma grande área geográfica
+
+
+Como a Internet funciona?
+Todos os computadores possuem um endereço numérico único chamado endereço IP. Seu computador
+tem um endereço IP. Quando você usa seu navegador para acessar uma página na Internet, seu computador 
+se conecta ao endereço IP da página que você solicitou. E, para descobrir este endereço IP, seu computador 
+usa um servidor de nomes ou DNS (Domain Name System) que funciona como uma lista telefônica. 
+É estabelecida então uma conexão entre seu computador e o servidor onde está hospedada a página solicitada. 
+E através desta conexão ocorre o envio de pacotes de informação. Cada pacote viaja pela rede por um 
+caminho da origem ao destino determinado por roteadores.
+
+
+É um conceito tecnológico em que objetos da vida cotidiana estão conectados à Internet, 
+agindo de modo inteligente e sensorial.
+É o conjunto de objetos inteligentes conectados à Internet que percebem informações do 
+ambiente e se comunicam com outros objetos e com pessoas.
+
+
+A unidade de comunicação é responsável pela comunicação do objeto inteligente com a Internet 
+ou com outros objetos inteligentes.
+A unidade que usamos para medir a velocidade de transmissão de dados é bit por segundo, 
+que é representado por bps.
+
+
+Ethernet (IEEE 802.3): ele é bastante utilizado para ligar computadores desktop à Internet. 
+O Ethernet utiliza cabos e possui alta taxa de transmissão de dados e grande alcance. 
+Possui taxa de transmissão de dados de até 1Gbps e 100 metros de alcance. 
+Wi-fi (IEEE 802.11): se refere a uma tecnologia de comunicação sem fio com alcance 
+adequado para redes locais, cerca de 50 metros, e taxa de transmissão de dados adequada 
+para assistir vídeos, até 1.300Mbps na sua versão mais recente, IEEE 802.11ac
+ZigBee: esta é uma tecnologia de comunicação sem fio que possui menor alcance, 
+cerca de 30 metros, e menor taxa de transmissão de dados do que o Wi-fi, em torno 
+de 250Kbps, mas que foi desenvolvida para consumir menos bateria.
+Bluetooth Low Energy: o Bluetooth é uma tecnologia de comunicação sem fio que foi 
+desenvolvida para ser intermediária entre o Zigbee e o Wifi, em termos de taxa de transmissão 
+de dados, alcance e consumo de bateria. Mas a sua versão mais recente, o Bluetooth Low Energy, 
+é capaz de transmitir 1Mbps com alcance de até 80m, com baixo consumo de energia
+3G/4G: tecnologia para comunicação sem fio capaz de alcançar grandes distâncias. No entanto, 
+o consumo de energia é alto em comparação com outras tecnologias. A sua utilização em locais 
+afastados e a alta mobilidade podem compensar esse gasto. A vazão alcançada no padrão 3G é de 
+cerca de 1Mbps e no padrão 4G é de até 10Mbps.0
+
+Quanto maior for a capacidade de comunicação de um dispositivo, maior será o seu consumo de energia.
+Os atuadores são dispositivos capazes de atuar no ambiente, modificando-o. 
+O potenciômetro é um sensor que capta a posição do cursor do pino central dos botões de giro
+
+O sinal emitido, ao colidir com qualquer objeto, é refletido de volta na direção do sensor. 
+O sensor calcula a distância até o obstáculo medindo o tempo que o sinal levou para ir até o obstáculo e voltar.
+Como o nome sugere, estes sensores captam a temperatura do ambiente e a transformam em um sinal elétrico
+Este sensor é semelhante ao sensor de temperatura, mas mede a umidade.
+Um sensor de luminosidade detecta a intensidade da luz emitida sobre ele.
+
+Movimento (motores)
+Os atuadores mais fáceis de identificar são os atuadores de movimento, pois eles causam mudanças 
+tangíveis no mundo físico.
+Som (Alto-falante)
+Atuadores de som são nada mais do que alto-falantes ou caixas de som
+Luminosidade (LED)
+Os atuadores de luminosidade emitem raios de luz. São basicamente lâmpadas, LEDs 
+de luz visível ou infravermelho por exemplo.
+
+O Arduino é uma placa de circuito com um microcontrolador embutido que pode ser usada para a criação 
+de inúmeros projetos eletrônicos de maneira fácil. 
+A placa Raspberry Pi é um computador completo de baixo custo, que possui um microprocessador no lugar do 
+microcontrolador, memória e pinos de entrada e saída. 
+
+Em geral, um objeto inteligente é composto por quatro unidades básicas de hardware: processamento 
+e memória, comunicação, energia, sensores e atuadores.
+Processamento e memória têm a função de armazenar dados e a sequência lógica de instruções que torna 
+o objeto inteligente.
+Comunicação é responsável pela comunicação do objeto inteligente com a Internet ou com outros objetos inteligentes. 
+Energia  é responsável por alimentar os componentes do objeto inteligente. 
+Sensores e atuadores realizam interações com o ambiente em que o objeto inteligente está imerso. 
